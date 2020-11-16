@@ -15,6 +15,11 @@ body {
   background: linear-gradient(rgb(47, 150, 163), rgb(48, 62, 143));
 }
 
+.heading {
+  text-align: center;
+  margin: 50px;
+}
+
 .location,
 .temperature-section {
   height: 30vh;
